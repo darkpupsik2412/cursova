@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #f8f8f8;
+}
+
+header{
+    background-color: #e91e63;
+    color: white;
+    text-align: center;
+    padding: 0 ;
+}
+
+main{
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0;   
+}
+
+h1,h2{
+    color: #e91e63;
+}
+
+img{
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.infobox{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
